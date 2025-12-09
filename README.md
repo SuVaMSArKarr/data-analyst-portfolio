@@ -58,9 +58,9 @@ Data Analyst with expertise in Python, SQL, statistical analysis, and business i
 
 ## 📫 Contact
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** your.email@example.com
-- **Location:** Krishnanagar, West Bengal, India
+- **LinkedIn:** 
+- **Email:** suvamsarkar44@gmail.com
+- **Location:** India
 
 ---
 
